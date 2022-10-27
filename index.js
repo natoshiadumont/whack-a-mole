@@ -1,4 +1,4 @@
-//changing the dom
+//changing
 
 let score = 0;
 let scoreValue = document.getElementById('score');
@@ -19,3 +19,4 @@ gameArea.addEventListener('click', function(clickEvent) {
     // we hit a mole!
   }
 });
+
